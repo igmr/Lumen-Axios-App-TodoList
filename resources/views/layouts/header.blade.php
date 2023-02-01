@@ -14,7 +14,7 @@
                 </li>
             </ul>
             <div class="d-flex btn-group">
-                <a href="#" class="btn btn-outline-secondary" target="_blank">GitHub APP</a>
+                <a href="https://github.com/igmr/Lumen-Axios-App-TodoList" class="btn btn-outline-secondary" target="_blank">GitHub APP</a>
                 <a href="https://github.com/igmr/FlightPHP-Api-REST-TodoList" class="btn btn-outline-secondary" target="_blank">GitHub API</a>
             </div>
         </div>
