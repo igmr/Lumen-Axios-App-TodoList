@@ -5,6 +5,7 @@ Homestead.yaml
 .env
 .phpunit.result.cache
 
+composer.lock
 
 #-------------------------
 # Operating Specific Junk Files
